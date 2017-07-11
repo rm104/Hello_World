@@ -1,4 +1,4 @@
-% Z(N) function, trailing zeroes.
+/* Z(N) function, trailing zeroes. */
 #include <bits/stdc++.h>
 using namespace std;
  
